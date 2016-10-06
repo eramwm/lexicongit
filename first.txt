@@ -1,2 +1,3 @@
 ﻿Detta är min första fil.
 Här kommer lite mer text.
+En rad till.
